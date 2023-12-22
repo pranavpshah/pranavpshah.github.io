@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pranavpshah
 
 github_repos:
-  - alshedivat/al-folio
+  - pranavpshah/Projects/tree/main/Classificiation_models
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
