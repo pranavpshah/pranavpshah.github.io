@@ -2,10 +2,6 @@ github_users:
   - pranavpshah
 
 github_repos:
-  - pranavpshah/Projects/Classificiation_models
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - pranavpshah/Projects
+  - Aadith-Kumar/MEAM-517-Project
+  - Aadit-Patel/WISDM_Health_Monitoring
