@@ -2,7 +2,7 @@ github_users:
   - pranavpshah
 
 github_repos:
-  - pranavpshah/Projects/tree/main/Classificiation_models
+  - pranavpshah/Projects/Classificiation_models
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
