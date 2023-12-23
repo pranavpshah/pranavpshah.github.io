@@ -30,7 +30,6 @@
       location: Philadelphia, USA
       year: 2023
       description:
-        - Awarded Outstanding Research Award, 2023.
         - title: Relevant Coursework
           contents:
             - Introduction to Robotics (Path planning and control of Robotic Arms)
@@ -46,7 +45,6 @@
       institution: Veermata Jijabai Technological Institute (VJTI)
       location: Mumbai, India
       year: 2020
-      description: Awarded Gold Medal for securing 1st Rank in the Batch
 
 - title: Work Experience
   type: time_table
