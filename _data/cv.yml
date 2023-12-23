@@ -45,6 +45,12 @@
       institution: Veermata Jijabai Technological Institute (VJTI)
       location: Mumbai, India
       year: 2020
+      description:
+        - title: Some Relevant Coursework
+          contents:
+            - Electronic Circuit Analysis and Design
+            - Microprocessors and Microcontrollers
+            - Control Theory
 
 - title: Work Experience
   type: time_table
