@@ -102,9 +102,45 @@
 - title: Project Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: SICK LiDAR TiM$10K Challenge 
+      year: Oct 2022 - Apr 2023
+      description: 
+        - Designed and developed an autonomous solution for the public space sanitation industry, along with a team of 5 which is one of the 20 teams shortlisted in the USA.
+        - Skills involved- ROS, path planning, control, mechanical product design, mechatronics, electronic circuit design, perception.
+        - <a href="https://www.youtube.com/watch?v=_JcPts7voj8">Final submission video link</a>
+
+    - title: Chance Constrained multi-agent Non-linear Model Predictive Control
+      year: Nov 2022 - Dec 2022
+      description:
+        - Formulated a non-linear model predictive control (NMPC) for a differential drive robot to perform decentralized path planning.
+        - Built the project in ROS 2, simulated in Gazebo environment, and used <a href="https://drake.mit.edu/">Drake</a> as the mathematical framework to solve the optimization.
+        - Concepts explored - Model Predictive Control (MPC), Linear Quadratic Regulator (LQR) and Iterative LQR (iLQR)
+
+    - title: Attention-based Networks for Human Trajectory Prediction
+      year: Nov 2022 - Dec 2022
+      description: Designed and trained a Transformer neural network (using PyTorch) to predict a human's trajectory on the TrajNet dataset.
+
+    - title: Ensemble Kalman Filter
+      year: Apr 2022 - May 2022
+      description: Developed an Ensemble Kalman filter using a Neural Network (using PyTorch) which combined the filter outputs of an Error State Kalman filter, Complementary filter and Unscented Kalman Filter.
+
+    - title: Autonomous VIO-based Quadrotor
+      year: Jan 2022 - May 2022
+      description: Implemented the path planning (A* algorithm), trajectory generation (minimum-snap trajectory), geometric controller and visual-inertial odometry (VIO) based state estimation and localization (sensor fusion of IMU data and stereo-images) for a UAV.
+
+    - title: Simultaneous Localization and Mapping (SLAM)
+      year: Mar 2022
+      description: Implemented a mapping and localization algorithm with a particle filter using data from IMU and LiDAR sensor.
+
+    - title: Franka Panda Robot Arm manipulation
+      year: Dec 2021
+      description:
+        - Used kinematics concepts to control and maneuver a Franka Panda robotic arm to perform tasks in a dynamic environment.
+        - Implemented a graph based path planning algorithm, RRT, to obtain a path for the 7 DOF robotic arm.
+
+    - title: Semi-autonomous mobile robot
+      year: Aug 2021 - Dec 2021
+      description: Designed and developed a semi-autonomous mobile robot with multiple sensing systems to interact and perform complex tasks in a dynamic environment.
 
 - title: Honors and Awards
   type: time_table
