@@ -45,7 +45,7 @@
       institution: Kumar Lab, University of Pennsylvania
       year: Nov 2023 - Now
       description:
-        Collaborating with a cross functional team to migrate the open source library for drones from ROS1 to ROS2.
+        - Collaborating with a cross functional team to migrate the open source library for drones from ROS1 to ROS2.
         - title: Skills
           contents:
             - C++
