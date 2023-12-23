@@ -45,12 +45,13 @@
       institution: Kumar Lab, University of Pennsylvania
       year: Nov 2023 - Now
       description:
-        Collaborating with a cross-functional team to migrate the open source library for drones from ROS1 to ROS2.
+        Collaborating with a cross functional team to migrate the open source library for drones from ROS1 to ROS2.
         - title: Skills
           contents:
             - C++
             - Robot Operating System (ROS)
             - Docker
+
     - title: Robotics Research Engineer
       institution: ModLab University of Pennsylvania
       year: June 2021 - Now
@@ -65,9 +66,13 @@
             - Developed a simulation for a swarm of micro-scaled robots, designing local-rules for a de-centralised multi-agent system using Python.
             - Developing and testing macro-scaled prototype of the micro-bot to understand the dynamics of the robot.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Data Scientist
+      department: Loylty Rewardz Management Pvt. Ltd.
+      year: Dec 2020 - Jul 2021
+      description:
+        - Developed Machine Learning models to perform customer segmentation, identify customer personas and predict future propensities for effective marketing.
+        - Improved the efficacy of the marketing campaigns resulting in a 20% increase in footfall for retail vendors.
+        - Developed PostgreSQL scripts for database management, data analysis and automating several monthly report processes for data visualization. Automation of these processes helped to save 40 hours of work per month.
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
