@@ -6,7 +6,7 @@
     - name: Label
       value: Roboticist
     - name: Email
-      value: <a href="shah.p.pranav@gmail.com">shah.p.pranav@gmail.com</a>
+      value: shah.p.pranav@gmail.com
     - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/pranav-p-shah/">pranav-p-shah</a>
     - name: GitHub
@@ -15,22 +15,28 @@
 - title: Education
   type: time_table
   contents:
-    - title: MS
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSE Robotics Engineering
+      institution: University of Pennsylvania
+      location: Philadelphia, Pennsylvania, USA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Awarded Outstanding Research Award, 2023.
+        - title: Relevant Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Introduction to Robotics (Path planning and control of Robotic Arms)
+            - Advanced Robotics (Motion Planning, State Estimation and Control of UAVs)
+            - Learning in Robotics (Filtering techniques, Optimization and Reinforcement Learning)
+            - Control and Optimization for Application in Robotics (Non-linear and modern control theories)
+            - Feedback Control Theory
+            - Performance Control and Stability of UAVs
+            - Machine Perception
+            - Machine Learning
+            - Deep Learning
+    - title: Bachelor of Technology in Electronics Engineering
+      institution: Veermata Jijabai Technological Institute (VJTI)
+      location: Mumbai, India
+      year: 2020
+      description: Awarded Gold Medal for securing 1st Rank in the Batch
 
 - title: Experience
   type: time_table
