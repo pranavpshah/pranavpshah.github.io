@@ -145,27 +145,27 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Research Award, University of Pennsylvania
+        - 1st Prize in SICK LiDAR TiM$10K Challenge
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Gold Medal for securing 1st Rank, VJTI
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - Photography, Movies, Tennis, Guitar, Cooking
