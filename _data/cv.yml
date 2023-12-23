@@ -12,6 +12,16 @@
     - name: GitHub
       value: <a href="https://github.com/pranavpshah/Projects">pranavpshah</a>
 
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: C++, Python, Matlab, C, PyTorch, PostgreSQL, Embedded C, Robot Operating System (ROS)
+    - name: Tools
+      value: Git, AutCAD, Matlab, Simulink, EagleCAD, Autodesk Fusion 360, Docker, Distrobox, LaTeX, Arduino, Drake, Raspberry Pi, NI Multisim 
+    - name: Product Development
+      value: Laser Cutting, 3D Printing, Electronic Circuit Design, PCB designing, CNC milling, machining processes
+
 - title: Education
   type: time_table
   contents:
