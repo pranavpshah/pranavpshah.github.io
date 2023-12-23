@@ -17,7 +17,7 @@
   contents:
     - title: MSE Robotics Engineering
       institution: University of Pennsylvania
-      location: Philadelphia, PA, USA
+      location: Philadelphia, USA
       year: 2023
       description:
         - Awarded Outstanding Research Award, 2023.
@@ -38,25 +38,32 @@
       year: 2020
       description: Awarded Gold Medal for securing 1st Rank in the Batch
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Engineer
+      institution: Kumar Lab, University of Pennsylvania
+      year: Nov 2023 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        Collaborating with a cross-functional team to migrate the open source library for drones from ROS1 to ROS2.
+        - title: Skills
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - C++
+            - Robot Operating System (ROS)
+            - Docker
+    - title: Robotics Research Engineer
+      institution: ModLab University of Pennsylvania
+      year: June 2021 - Now
       description:
-        - Description 1.
-        - Description 2.
+        - title: Project 1 - Motion Planning and Control of swarm of mini-drones
+          contents:
+            - Developed a simulator for a swarm of mini-drones which can fly in close proximity in an indoor environment.
+            - Implemented a Hamiltonian path planning algorithm for the swarm of drones.
+            - Currently performing physical drone tests to analyse the effect of down-wash (or wake) of the drones over one another.
+        - title: Project 2 - Motion planning of multi-agent micro-scaled robots
+          contents:
+            - Developed a simulation for a swarm of micro-scaled robots, designing local-rules for a de-centralised multi-agent system using Python.
+            - Developing and testing macro-scaled prototype of the micro-bot to understand the dynamics of the robot.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
