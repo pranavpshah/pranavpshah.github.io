@@ -2,7 +2,7 @@
 layout: page
 title: Semi-autonomous Mobile Robot
 description:
-img: assets/img/510_3D_CAD.png
+img: assets/img/3d_cad_510.png
 importance: 6
 category: work
 ---
