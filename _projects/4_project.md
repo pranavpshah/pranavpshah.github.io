@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Attention-based networks for Human Trajectory Predicition
+description: Transformer Network to predict human trajectories in a scene
 img: assets/img/transformer_architecture.png
 importance: 3
 category: work
