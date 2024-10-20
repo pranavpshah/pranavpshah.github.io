@@ -4,7 +4,7 @@
     - name: Name
       value: Pranav Shah
     - name: Label
-      value: Roboticist
+      value: Robotics Engineer
     - name: Email
       value: shah.p.pranav@gmail.com
     - name: LinkedIn
@@ -16,11 +16,11 @@
   type: map
   contents:
     - name: Programming
-      value: C++, Python, Matlab, C, PyTorch, PostgreSQL, Embedded C, Robot Operating System (ROS)
+      value: C++, Python, Matlab, Robot Operating System (ROS1 and ROS2), C, PyTorch, PostgreSQL, Embedded C, Cuda
     - name: Tools
-      value: Git, AutCAD, Matlab, Simulink, EagleCAD, Autodesk Fusion 360, Docker, Distrobox, LaTeX, Arduino, Drake, Raspberry Pi, NI Multisim 
+      value: Git, AutCAD, Matlab, Simulink, EagleCAD, Autodesk Fusion 360, Docker, LaTeX, Arduino, Drake, Raspberry Pi, NI Multisim 
     - name: Product Development
-      value: Laser Cutting, 3D Printing, Electronic Circuit Design, PCB designing, CNC milling, machining processes
+      value: Laser Cutting, 3D Printing, Electronic Circuit Design, PCB designing, CNC milling, machining processes, Jira, Agile
 
 - title: Education
   type: time_table
@@ -41,6 +41,7 @@
             - Machine Perception
             - Machine Learning
             - Deep Learning
+            - Mechatronics
     - title: Bachelor of Technology in Electronics Engineering
       institution: Veermata Jijabai Technological Institute (VJTI)
       location: Mumbai, India
@@ -55,6 +56,20 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Positioning and Controls Engineer
+      institution: Caterpillar Trimble Control Technologies
+      year: 04/2024 - Now
+      description:
+        - Designing, Developing and Testing state estimation and control algorithms for different heavy-duty vehicles.
+        - Utilizing tools like MATLAB, Simulink and C++ to maintain CI/CD pipelines and test algorithms.
+        - Performing root-cause analysis and collaborating with multi-disciplinary teams to provide swift solutions to on-site issues to reduce downtime
+        - title: Skills
+          contents:
+            - C++
+            - Matlab
+            - Simulink
+            - Jira
+
     - title: Research Engineer
       institution: Kumar Lab, University of Pennsylvania
       year: 11/2023 - Now
@@ -63,7 +78,7 @@
         - title: Skills
           contents:
             - C++
-            - Robot Operating System (ROS)
+            - Robot Operating System (ROS1 and ROS2)
             - Docker
 
     - title: Robotics Research Engineer
