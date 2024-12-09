@@ -12,46 +12,16 @@
     - name: GitHub
       value: <a href="https://github.com/pranavpshah/Projects">pranavpshah</a>
 
-- title: Skills
-  type: map
-  contents:
-    - name: Programming
-      value: C++, Python, Matlab, Robot Operating System (ROS1 and ROS2), C, PyTorch, PostgreSQL, Embedded C, Cuda
-    - name: Tools
-      value: Git, AutCAD, Matlab, Simulink, EagleCAD, Autodesk Fusion 360, Docker, LaTeX, Arduino, Drake, Raspberry Pi, NI Multisim 
-    - name: Product Development
-      value: Laser Cutting, 3D Printing, Electronic Circuit Design, PCB designing, CNC milling, machining processes, Jira, Agile
-
-- title: Education
+- title: Honors and Awards
   type: time_table
   contents:
-    - title: MSE Robotics Engineering
-      institution: University of Pennsylvania
-      location: Philadelphia, USA
-      year: 2023
-      description:
-        - title: Relevant Coursework
-          contents:
-            - Introduction to Robotics (Path planning and control of Robotic Arms)
-            - Advanced Robotics (Motion Planning, State Estimation and Control of UAVs)
-            - Learning in Robotics (Filtering techniques, Optimization and Reinforcement Learning)
-            - Control and Optimization for Application in Robotics (Non-linear and modern control theories)
-            - Feedback Control Theory
-            - Performance Control and Stability of UAVs
-            - Machine Perception
-            - Machine Learning
-            - Deep Learning
-            - Mechatronics
-    - title: Bachelor of Technology in Electronics Engineering
-      institution: Veermata Jijabai Technological Institute (VJTI)
-      location: Mumbai, India
-      year: 2020
-      description:
-        - title: Some Relevant Coursework
-          contents:
-            - Electronic Circuit Analysis and Design
-            - Microprocessors and Microcontrollers
-            - Control Theory
+    - year: 2023
+      items: 
+        - Outstanding Research Award, University of Pennsylvania
+        - 1st Prize in SICK LiDAR TiM$10K Challenge
+    - year: 2020
+      items: 
+        - Gold Medal for securing 1st Rank, VJTI
 
 - title: Work Experience
   type: time_table
@@ -69,6 +39,7 @@
             - Matlab
             - Simulink
             - Jira
+            - Test Driven Development
 
     - title: Research Engineer
       institution: Kumar Lab, University of Pennsylvania
@@ -118,12 +89,55 @@
       year: 8/2017 - 7/2019
       description: Taught under-privileged kids Math and Science belonging to a wide-range of age groups.
 
+- title: Education
+  type: time_table
+  contents:
+    - title: MSE Robotics Engineering
+      institution: University of Pennsylvania
+      location: Philadelphia, USA
+      year: 2023
+      description:
+        - title: Relevant Coursework
+          contents:
+            - Introduction to Robotics (Path planning and control of Robotic Arms)
+            - Advanced Robotics (Motion Planning, State Estimation and Control of UAVs)
+            - Learning in Robotics (State Estimation and Filtering techniques, Optimization and Reinforcement Learning)
+            - Control and Optimization for Application in Robotics (Non-linear and modern control theories)
+            - Feedback Control Theory
+            - Performance Control and Stability of UAVs
+            - Machine Perception
+            - Machine Learning
+            - Deep Learning
+            - Mechatronics
+    - title: Bachelor of Technology in Electronics Engineering
+      institution: Veermata Jijabai Technological Institute (VJTI)
+      location: Mumbai, India
+      year: 2020
+      description:
+        - title: Relevant Coursework
+          contents:
+            - Electronic Circuit Analysis and Design
+            - Microprocessors and Microcontrollers
+            - Control Theory
+            - Embedded Systems Design
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: C++, Python, Matlab, Robot Operating System (ROS1 and ROS2), C, PyTorch, PostgreSQL, Embedded C, Cuda
+    - name: Tools
+      value: Git, AutCAD, Matlab, Simulink, EagleCAD, Autodesk Fusion 360, Docker, LaTeX, Arduino, Drake, Raspberry Pi, NI Multisim 
+    - name: Product Development
+      value: Laser Cutting, 3D Printing, Electronic Circuit Design, PCB designing, CNC milling, machining processes, Jira, Agile
+
 - title: Project Experience
   type: time_table
   contents:
     - title: SICK LiDAR TiM$10K Challenge 
       year: 10/2022 - 4/2023
       description: 
+        - Winners of the Robotics Competition organized by the company SICK.
         - Designed and developed an autonomous solution for the public space sanitation industry, along with a team of 5 which is one of the 20 teams shortlisted in the USA.
         - Skills involved- ROS, path planning, control, mechanical product design, mechatronics, electronic circuit design, perception.
         - <a href="https://www.youtube.com/watch?v=_JcPts7voj8">Final submission video link</a>
@@ -132,6 +146,7 @@
       year: 11/2022 - 12/2022
       description:
         - Formulated a non-linear model predictive control (NMPC) for a differential drive robot to perform decentralized path planning.
+        - Explored the trade-off of using hard constraints v/s barrier functions for smooth control transitions.
         - Built the project in ROS 2, simulated in Gazebo environment, and used <a href="https://drake.mit.edu/">Drake</a> as the mathematical framework to solve the optimization.
         - Concepts explored - Model Predictive Control (MPC), Linear Quadratic Regulator (LQR) and Iterative LQR (iLQR)
 
@@ -145,7 +160,10 @@
 
     - title: Autonomous VIO-based Quadrotor
       year: 1/2022 - 5/2022
-      description: Implemented the path planning (A* algorithm), trajectory generation (minimum-snap trajectory), geometric controller and visual-inertial odometry (VIO) based state estimation and localization (sensor fusion of IMU data and stereo-images) for a UAV.
+      description: 
+        - Developed and implemented the complete autonomy stack for a Crazyflie drone.
+        - Implemented A* path planning algorithm, Minimum-snap trajectory generation and a Geometric controller. These algorithms were tested on the actual drone as well.
+        - A Visual-Inertial Odometry (VIO) based state estimation and localization algorithm was implemented for the UAV as well and it was exhaustively tested in a simulation environment.  
 
     - title: Simultaneous Localization and Mapping (SLAM)
       year: 3/2022
@@ -161,16 +179,7 @@
       year: 8/2021 - 12/2021
       description: Designed and developed a semi-autonomous mobile robot with multiple sensing systems to interact and perform complex tasks in a dynamic environment.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - Outstanding Research Award, University of Pennsylvania
-        - 1st Prize in SICK LiDAR TiM$10K Challenge
-    - year: 2020
-      items: 
-        - Gold Medal for securing 1st Rank, VJTI
+
 
 # - title: Academic Interests
 #   type: nested_list
