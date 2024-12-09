@@ -4,7 +4,7 @@ title: Chance Constrained Non-Linear MPC
 description: Model Predicitve Control for multi-agent systems using probablistic constraints. 
 img: assets/img/chance_constrained_mpc.png
 importance: 3
-category: work
+category: robotics
 ---
 
 Multi-agent Model Predictive Control is a developing field, and many variations of it are being researched on. In this project we have tested different multi-agent MPC approaches, exploring centralized and decentralized control methods. The decentralized MPC was implemented with probabilistic Chance Constraints to get robust avoidance behavior while navigating with uncertain localization. Chance-constrained MPC was enforced by minimizing area of overlap using a convex function on area. This improvised Chance Constrained MPC was tested on simulation with 2 and 3 agents.

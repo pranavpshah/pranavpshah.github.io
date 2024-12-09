@@ -4,7 +4,7 @@ title: SauberBOT
 description: An Autonomous garbage/trash collection solution
 img: assets/img/sauberbot.png
 importance: 1
-category: work
+category: robotics
 ---
 
 This project was done as part of a Robotics Competition called, <a href="https://www.sick.com/us/en/tim10k/w/tim10k/"> SICK LiDaR $10K Challenge 2023</a>. We worked on creating an autonomous solution for the cleaning of garbage from open spaces such as parks, beaches, etc. 

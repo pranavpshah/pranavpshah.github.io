@@ -4,7 +4,7 @@ title: Semi-autonomous Mobile Robot
 description:
 img: assets/img/3d_cad_510.png
 importance: 6
-category: work
+category: robotics
 ---
 
 Built an autonomous mobile robot that is controlled using a ESP32 and performs the following tasks:

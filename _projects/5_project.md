@@ -4,7 +4,7 @@ title: SLAM
 description: 2D SLAM
 img: assets/img/slam_plot_1.png
 importance: 5
-category: work
+category: robotics
 ---
 
 Implemented SLAM for 2D LiDaR data that was collected in the university and the localization was done using a particle filter. 

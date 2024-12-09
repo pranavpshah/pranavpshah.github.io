@@ -4,7 +4,7 @@ title: Autonomous VIO-based Quadcoptor
 description: Developed and implemented the autonomous stack for a quadrotor
 img: assets/img/Crazyflie2.0-585px.jpg
 importance: 2
-category: work
+category: robotics
 # giscus_comments: true
 ---
 
