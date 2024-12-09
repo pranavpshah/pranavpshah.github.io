@@ -30,9 +30,11 @@
       institution: Caterpillar Trimble Control Technologies
       year: 04/2024 - Now
       description:
-        - Designing, Developing and Testing state estimation and control algorithms for different heavy-duty vehicles.
-        - Utilizing tools like MATLAB, Simulink and C++ to maintain CI/CD pipelines and test algorithms.
-        - Performing root-cause analysis and collaborating with multi-disciplinary teams to provide swift solutions to on-site issues to reduce downtime
+        - Designing, Developing and Testing state estimation and control algorithms for a variety of heavy-duty vehicles.
+        - Performing root-cause analysis and collaborating with multi-disciplinary teams to provide swift solutions to on-site issues to reduce customer's downtime
+        - Developing and testing new algorithms and product ideas for the company to expand the product offering portfolio.
+        - Running the physical machines on the test sites to debug issues and test solutions.
+        - Common day-to-day tasks involve testing of algorithms and maintaining CI/CD pipelines.
         - title: Skills
           contents:
             - C++
