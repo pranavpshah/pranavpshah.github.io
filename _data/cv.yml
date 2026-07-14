@@ -26,9 +26,29 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Controls Engineer
+      institution: Icarus Robotics
+      year: 02/2026 - Now
+      description:
+        - One of the early team members of an early stage space-tech startup building free-flyer space robots with manipulation capabilities.
+        - Leading the design of the guidance, navigation and control system for a novel free-flyer space robot for precise control in microgravity.
+        - Collaborating with a cross-functional team to develop and design the system architecture using ROS2.
+        - Developing simulation for SIL tests for the robot using NVIDIA Isaac Simulation framework.
+        - Planning and executing testing campaigns to perform component and integration level tests for various systems of the robot.
+        - title: Skills
+          contents:
+            - ROS2
+            - C++
+            - MATLAB
+            - Simulink
+            - Project Management
+            - Product Design
+            - Controls and Perception
+            - NVIDIA Isaac Sim
+  
     - title: Positioning and Controls Engineer
       institution: Caterpillar Trimble Control Technologies
-      year: 04/2024 - Now
+      year: 04/2024 - 01/2026
       description:
         - Designing, Developing and Testing state estimation and control algorithms for a variety of heavy-duty vehicles.
         - Performing root-cause analysis and collaborating with multi-disciplinary teams to provide swift solutions to on-site issues to reduce customer's downtime
